@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1032235843082",
+    "firebase_url": "https://rims-67d9e.firebaseio.com",
+    "project_id": "rims-67d9e",
+    "storage_bucket": "rims-67d9e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1032235843082:android:d7f196e1225d0a2c",
+        "android_client_info": {
+          "package_name": "team1.rims.rims"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1032235843082-54j6lc8cgob9o2sff793oaqsq9djjunb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "team1.rims.rims",
+            "certificate_hash": "4225388a356653075826ab486a995afa811f8282"
+          }
+        },
+        {
+          "client_id": "1032235843082-ptch09jt5vmkcb6731egj46g4223smsc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAovKLdqWaOuamOhNF4BE_LbqlnxIe6C70"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1032235843082-ptch09jt5vmkcb6731egj46g4223smsc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
